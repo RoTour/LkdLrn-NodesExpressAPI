@@ -1,0 +1,16 @@
+{ 
+    "name": "Contact", 
+    "columns": { 
+       "id": { 
+          "primary": true, 
+          "type": "int", 
+          "generated": true 
+       }, 
+       "firstname": { 
+          "type": "varchar" 
+       }, 
+       "lastname": { 
+          "type": "varchar" 
+       } 
+    } 
+ }
